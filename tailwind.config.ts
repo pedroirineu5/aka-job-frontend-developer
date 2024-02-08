@@ -16,6 +16,7 @@ const config: Config = {
       lineHeight:{
         'extra-extra-loose':'96px',
       }
+      
     },
   },
   plugins: [],
