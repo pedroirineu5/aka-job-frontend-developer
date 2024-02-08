@@ -6,3 +6,8 @@ body {
   background-color: #241687;
   color: #fff; 
 }
+
+#logo{
+  width: 241px;
+  height: 48px; 
+}
