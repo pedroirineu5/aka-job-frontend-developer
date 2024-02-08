@@ -6,7 +6,7 @@ export default function Home() {
         <ul class="basis-1/2 flex flex-row gap-3">
           <li class="basis-1/2 text-center align-middle font-700">Sobre</li>
           <li class="basis-1/2 text-center align-middle font-700">Preços</li>
-          <li class="basis-1/2 text-center align-middle font-700">Produto</li>
+          <li class="basis-1/2 text-center align-middle font-700"><a href="#">Produto</a></li>
         </ul>
         <button class="basis-1/6 text-white font-medium rounded-full text-center me-2 outline outline-offset-1 outline-white w-194 h-65 ">Entre</button>
       </div>
